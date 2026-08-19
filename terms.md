@@ -15,7 +15,7 @@ MySecretChat è una piattaforma basata sul rispetto reciproco. È severamente vi
 
 ## 3. Gestione dei Contenuti e Moderazione
 * Gli utenti possono pubblicare contenuti in bacheca (inclusi segreti in forma anonima) e chattare associati al proprio profilo visibile.
-* **Responsabilità:** Gli utenti sono gli unici responsabili di ciò che scrivono e pubblicano. [Nome della tua App] non è responsabile dei contenuti generati dagli utenti.
+* **Responsabilità:** Gli utenti sono gli unici responsabili di ciò che scrivono e pubblicano. MySecretChat non è responsabile dei contenuti generati dagli utenti.
 * L'applicazione mette a disposizione strumenti di **Blocco** e **Segnalazione** direttamente accessibili dai profili. Ci riserviamo il diritto di rimuovere contenuti inappropriati e sospendere gli account che violano le regole senza preavviso.
 
 ## 4. Limitazione di Responsabilità
