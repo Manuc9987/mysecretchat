@@ -23,3 +23,30 @@ L'applicazione viene fornita "così com'è". Gli sviluppatori non si assumono al
 
 ## 5. Modifiche ai Termini
 Ci riserviamo il diritto di modificare questi termini in qualsiasi momento. L'continuato utilizzo dell'app costituirà accettazione delle modifiche.
+
+# MySecretChat Terms and Conditions of Use
+
+Last updated: August 18, 2026
+
+Welcome to MySecretChat. By using our app, you agree to the following Terms and Conditions. Please read them carefully.
+
+## 1. Acceptance of the Terms
+By accessing or using the app, you represent that you are at least 14 years old (or the minimum age required in your country) and that you fully accept these terms.
+
+## 2. User Conduct and Community Guidelines
+MySecretChat is a platform based on mutual respect. It is strictly prohibited to post, share, or send via chat:
+* Illegal, threatening, defamatory, obscene, or hateful content.
+* Material that violates others’ privacy or constitutes harassment or stalking.
+* Spam or attempts to scam other users.
+
+## 3. Content Management and Moderation
+* Users may post content on the bulletin board (including anonymous secrets) and chat using their visible profile.
+* **Responsibility:** Users are solely responsible for what they write and post. MySecretChat is not responsible for user-generated content.
+* The app provides **Block** and **Report** tools that are directly accessible from user profiles. We reserve the right to remove inappropriate content and suspend accounts that violate the rules without prior notice.
+
+
+## 4. Limitation of Liability
+The app is provided “as is.” The developers assume no liability for any service interruptions, data loss, or unpleasant interactions that may occur between users within the chat.
+
+## 5. Changes to the Terms
+We reserve the right to modify these terms at any time. Your continued use of the app constitutes acceptance of the changes.
