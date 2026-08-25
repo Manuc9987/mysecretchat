@@ -12,6 +12,16 @@ MySecretChat è una piattaforma basata sul rispetto reciproco. È severamente vi
 * Contenuti illegali, minacciosi, diffamatori, osceni o di incitamento all'odio.
 * Materiale che violi la privacy altrui o costituisca molestia o stalking.
 * Spam o tentativi di truffa nei confronti di altri utenti.
+* Protezione dei Minori e Sicurezza
+* La sicurezza dei minori è una priorità assoluta per MySecretChat.
+
+Età minima: L'utilizzo dell'applicazione è consentito esclusivamente agli utenti che rispettano l'età minima prevista dalle normative vigenti nel proprio paese (e comunque non inferiore ai 14 anni, come indicato nei nostri Termini d'uso). Non raccogliamo consapevolmente dati personali di minori al di sotto di questa soglia.
+
+Tolleranza zero per l'abuso: Adottiamo una politica di tolleranza zero nei confronti di qualsiasi forma di sfruttamento, abuso sessuale minorile o comportamento illecito.
+
+Strumenti di segnalazione: L'applicazione mette a disposizione degli utenti strumenti di moderazione immediati, inclusi tasti di segnalazione e blocco per contenuti inappropriati o comportamenti molesti. Qualsiasi contenuto o account che violi la sicurezza dei minori verrà immediatamente rimosso e, se necessario, segnalato alle autorità competenti.
+
+Canale di contatto dedicato: Per qualsiasi segnalazione urgente o richiesta relativa alla sicurezza dei minori, è possibile contattare direttamente il nostro responsabile all'indirizzo email: mysecretchatassistenza@gmail.com.
 
 ## 3. Gestione dei Contenuti e Moderazione
 * Gli utenti possono pubblicare contenuti in bacheca (inclusi segreti in forma anonima) e chattare associati al proprio profilo visibile.
@@ -38,6 +48,16 @@ MySecretChat is a platform based on mutual respect. It is strictly prohibited to
 * Illegal, threatening, defamatory, obscene, or hateful content.
 * Material that violates others’ privacy or constitutes harassment or stalking.
 * Spam or attempts to scam other users.
+* Child Protection and Safety
+* The safety of minors is a top priority for MySecretChat.
+
+Minimum Age: Use of the app is permitted only to users who meet the minimum age requirement set by the laws in effect in their country (and in any case, no younger than 14 years of age, as specified in our Terms of Use). We do not knowingly collect personal data from minors under this age.
+
+Zero Tolerance for Abuse: We have a zero-tolerance policy toward any form of exploitation, child sexual abuse, or unlawful behavior.
+
+Reporting Tools: The app provides users with immediate moderation tools, including report and block buttons for inappropriate content or harassing behavior. Any content or account that violates child safety will be immediately removed and, if necessary, reported to the appropriate authorities.
+
+Dedicated contact channel: For any urgent reports or requests regarding child safety, you can contact our manager directly at the following email address: mysecretchatassistenza@gmail.com.
 
 ## 3. Content Management and Moderation
 * Users may post content on the bulletin board (including anonymous secrets) and chat using their visible profile.
