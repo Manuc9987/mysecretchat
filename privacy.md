@@ -22,7 +22,7 @@ I tuoi dati sono conservati in modo sicuro tramite servizi di database protetti 
 Non vendiamo né cediamo i tuoi dati personali a terze parti. I dati sono condivisi esclusivamente con l'infrastruttura tecnica necessaria al funzionamento dell'app (es. hosting e database).
 
 ## 5. Contatti
-Per qualsiasi domanda relativa a questa Privacy Policy, puoi contattarci a: mysecretchatassistenza@gmail.com
+Per qualsiasi domanda relativa a questa Privacy Policy, o per rimuovere il tuo account puoi contattarci a: mysecretchatassistenza@gmail.com
 
 
 
@@ -51,4 +51,4 @@ Your data is stored securely using protected database services (Supabase and Hug
 We do not sell or transfer your personal data to third parties. Data is shared exclusively with the technical infrastructure necessary for the app to function (e.g., hosting and databases).
 
 ## 5. Contact Information
-If you have any questions regarding this Privacy Policy, you can contact us at: mysecretchatassistenza@gmail.com
+If you have any questions regarding this Privacy Policy, or for delete yout account you can contact us at: mysecretchatassistenza@gmail.com
