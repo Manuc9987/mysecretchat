@@ -66,8 +66,9 @@ Il Paese associato all'utente può essere aggiornato automaticamente ogni 12 ore
 * utilizzare MySecretChat per facilitare attività criminali;
 * aggirare i sistemi di sicurezza o moderazione.
 
-Tolleranza zero per l'abuso: Adottiamo una politica di tolleranza zero nei confronti di qualsiasi forma di sfruttamento, abuso sessuale minorile o comportamento illecito. Strumenti di segnalazione: L'applicazione mette a disposizione degli utenti strumenti di moderazione immediati, inclusi tasti di segnalazione e blocco per contenuti inappropriati o comportamenti molesti. Qualsiasi contenuto o account che violi la sicurezza dei minori verrà immediatamente rimosso e, se necessario, segnalato alle autorità competenti. Canale di contatto dedicato: Per qualsiasi segnalazione urgente o richiesta relativa alla sicurezza dei minori, è possibile contattare direttamente il nostro responsabile all'indirizzo email: mysecretchatassistenza@gmail.com
----
+Tolleranza zero per l'abuso: 
+
+Adottiamo una politica di tolleranza zero nei confronti di qualsiasi forma di sfruttamento, abuso sessuale minorile o comportamento illecito. Strumenti di segnalazione: L'applicazione mette a disposizione degli utenti strumenti di moderazione immediati, inclusi tasti di segnalazione e blocco per contenuti inappropriati o comportamenti molesti. Qualsiasi contenuto o account che violi la sicurezza dei minori verrà immediatamente rimosso e, se necessario, segnalato alle autorità competenti. Canale di contatto dedicato: Per qualsiasi segnalazione urgente o richiesta relativa alla sicurezza dei minori, è possibile contattare direttamente il nostro responsabile all'indirizzo email: mysecretchatassistenza@gmail.com
 
 ### 6. Foto e contenuti sessuali
 
