@@ -246,8 +246,6 @@ Sito:
 
 ---
 
-# ENGLISH VERSION
-
 ## TERMS & CONDITIONS — MYSECRETCHAT
 
 **Last updated: August 27, 2026**
